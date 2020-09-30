@@ -25,6 +25,6 @@ I am [Tejan Singh](https://github.com/tejan-singh)
 I am beginner to open source.
 
 5. ### Hey there
-I am [Hemanth ](https://github.com/mackdroid) 
+I am [Hemanth ](https://github.com/mackdroid)<br>
 Im am a beginner in java script and in open source 
 
