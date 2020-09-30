@@ -8,8 +8,7 @@
 
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
 
-Join the open source celebration and leave a mark on the open source world! Read my **open-source journey [here](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)**.
-
+Join the open source celebration and leave a mark on the open source world
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
 > I've opened few issues for beginners. Take up any issue and send your first PR! *
