@@ -18,3 +18,8 @@ I am [Sharannyo Basu](https://github.com/sharannyobasu)
 <img src="https://avatars1.githubusercontent.com/u/55141861?s=460&u=81bcea5eb13995af1833ff684a78796ab798920c&v=4"/>  
 My first attempt in getting my hands dirty into Open Source
 Open for future contributions/collaborations
+
+4. ### Hey there !  
+I am [Tejan Singh](https://github.com/tejan-singh)  
+<img src="https://avatars2.githubusercontent.com/u/50990883?s=460&u=17dc74fae6985b2e189377cd4645ac685f932270&v=4"/>  
+I am beginner to open source.
