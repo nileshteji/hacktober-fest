@@ -28,3 +28,6 @@ I am beginner to open source.
 I am [Hemanth ](https://github.com/mackdroid)<br>
 Im am a beginner in java script and in open source 
 
+6. ### Hey there!
+I am [Aryan ](https://github.com/ryanGP-0)<br>
+Im a complete beginner in coding and currently learning python. I would love to get more into the world of open source
