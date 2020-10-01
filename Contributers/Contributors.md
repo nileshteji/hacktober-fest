@@ -50,7 +50,7 @@ I am a law student who likes coding as a passtime hobby
 
 10. ### Hey There!
 I Am [Onkar Nardekar](https://github.com/OmiGitProjects)
-<img src="https://avatars2.githubusercontent.com/u/50990883?s=460&u=17dc74fae6985b2e189377cd4645ac685f932270&v=4" width="128" height="128"/>
+<br>
 I Am a Student Learning Web Development in Python
 
 
