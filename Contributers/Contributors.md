@@ -28,7 +28,6 @@ I am beginner to open source.
 I am [Hemanth ](https://github.com/mackdroid)<br>
 Im am a beginner in java script and in open source 
 
-
 6. ### Hey There
 I am[Raj](https://github.com/rajsa074)<br>
 I am beginner to open source.please accept pull request..
@@ -43,3 +42,8 @@ I am [Ankush Chauhan](https://ankush-chauhan.web.app/)
 8. ### Hey there!
 I am [Aryan ](https://github.com/ryanGP-0)<br>
 Im a complete beginner in coding and currently learning python. I would love to get more into the world of open source
+
+9. ### Hey there !
+I am [Atharva ](https://github.com/chimphanje)<br>
+I am a law student who likes coding as a passtime hobby
+
