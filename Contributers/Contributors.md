@@ -83,3 +83,8 @@ I am [SHIVANGI CHAUHAN](https://github.com/Co123Dev)
 I am [swt02026](https://github.com/swt02026)
 <li>I am a C++ engineer.</li>
 <br>
+
+15. ### Hey Everyone!
+[Shivam Shekhar](https://github.com/ShivamShekhar1997), this side.
+<li>  I am currently working on building up my web development skills, and in the process build some cool projects.</li>
+<br>
