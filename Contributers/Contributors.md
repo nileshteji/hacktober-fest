@@ -88,3 +88,8 @@ I am [swt02026](https://github.com/swt02026)
 [Shivam Shekhar](https://github.com/ShivamShekhar1997), this side.
 <li>  I am currently working on building up my web development skills, and in the process build some cool projects.</li>
 <br>
+
+16.### Hey everyone!
+I am [Srishti Mittal](https://github.com/Chia2712)
+<li> I am currently a graduate who is eager to explore the coding world.</li>
+<br>
