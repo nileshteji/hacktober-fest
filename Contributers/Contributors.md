@@ -95,6 +95,6 @@ I am [swt02026](https://github.com/swt02026)
 
 17. ### Hey there !  
 I am [Yashika Gupta](https://github.com/creativeyashi)    
-My first attempt in getting my hands dirty into Open Source
-Open for future contributions/collaborations
+My first attempt in getting my hands dirty into Open Source.
+I am open for future contributions/collaborations
 <br>
