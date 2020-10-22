@@ -99,3 +99,9 @@ I am [Srishti Mittal](https://github.com/Chia2712)
 [Rahul Gupta ] (https://github.com/rahulgupta1999)
 <li> This is my first HacktoberFest participation !!  </li>
 <br>
+
+17. ### Hey there !  
+I am [Yashika Gupta](https://github.com/creativeyashi)    
+My first attempt in getting my hands dirty into Open Source.
+I am open for future contributions/collaborations
+<br>
