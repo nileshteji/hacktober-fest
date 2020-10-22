@@ -105,3 +105,10 @@ I am [Yashika Gupta](https://github.com/creativeyashi)
 My first attempt in getting my hands dirty into Open Source.
 I am open for future contributions/collaborations
 <br>
+
+ 14. ### Hey there
+I am [Mustafa Basit](https://github.com/themustafabasit)  
+<img src="https://avatars2.githubusercontent.com/u/24441401?s=400&u=e2fabe7327d394557dc4c93757f413a94190dd83&v=4" width="120" height="120" />  
+<li>A developer with a strong passion for self-improvement.</li>
+<li>Hate OOP, Functional programming guy <strong>#clojure</strong></li>
+<br>
