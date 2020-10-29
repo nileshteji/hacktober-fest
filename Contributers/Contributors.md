@@ -105,3 +105,9 @@ I am [Yashika Gupta](https://github.com/creativeyashi)
 My first attempt in getting my hands dirty into Open Source.
 I am open for future contributions/collaborations
 <br>
+
+18. ### Hey there !  
+I am [Amith Tony](https://github.com/Amith1206)    
+My first attempt in Hacktober
+<br>
+
