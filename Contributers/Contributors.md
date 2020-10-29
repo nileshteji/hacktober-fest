@@ -105,6 +105,10 @@ I am [Yashika Gupta](https://github.com/creativeyashi)
 My first attempt in getting my hands dirty into Open Source.
 I am open for future contributions/collaborations
 <br>
+18. ### Hey there !  
+I am [Amith Tony](https://github.com/Amith1206)    
+My first attempt in Hacktober
+<br>
 
  14. ### Hey there
 I am [Mustafa Basit](https://github.com/themustafabasit)  
@@ -112,3 +116,4 @@ I am [Mustafa Basit](https://github.com/themustafabasit)
 <li>A developer with a strong passion for self-improvement.</li>
 <li>Hate OOP, Functional programming guy <strong>#clojure</strong></li>
 <br>
+
