@@ -117,3 +117,8 @@ I am [Mustafa Basit](https://github.com/themustafabasit)
 <li>Hate OOP, Functional programming guy <strong>#clojure</strong></li>
 <br>
 
+15. ### Hey there
+I am [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
+<li> I am a professional Taekwondo National Player. </li>
+<li> This is my second PR for the Hactoberfest. </li>
+<br>
